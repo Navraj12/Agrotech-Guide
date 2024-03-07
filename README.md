@@ -15,11 +15,11 @@ To run this,
 - open that folder in VSCode 
 
 - Open command prompt and run following command to check is everything is ok with flutter?
-```http
+```https
   flutter doctor
 ```
 - if everything is ok, Run following command to run flutter app
-```http
+```https
   flutter run 
 
 ```
